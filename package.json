@@ -23,6 +23,6 @@
     "helmet": "^3.10.0",
     "mongoose": "^5.0.1",
     "path": "^0.12.7",
-    "secure-password": "^3.0.0",
+    "secure-password": "^3.0.0"
   }
 }
