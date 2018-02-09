@@ -20,6 +20,6 @@ require('./api/routes/index.js')(app)
 /* --- error handling --- */
 require('./api/errors/index.js')(app)
 
-app.listen(process.env.SERVER_PORT, '0.0.0.0', function () {
-  console.log('application is running and listening on port: ' + process.env.SERVER_PORT)
+app.listen(process.env.PORT, '0.0.0.0', function () {
+  console.log('application is running and listening on port: ' + process.env.PORT)
 })
