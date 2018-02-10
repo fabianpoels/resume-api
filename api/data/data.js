@@ -6,6 +6,7 @@ data.personal.dateOfBirth = '05/04/1987'
 data.personal.email = 'hello@fabianpoels.com'
 
 data.skills = {}
+data.skills.programmingLanguages = {}
 
 data.experience = {}
 
