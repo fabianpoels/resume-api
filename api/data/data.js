@@ -53,7 +53,22 @@ data.skills.other = [
   }
 ]
 
-data.experience = {}
+data.experience = [
+  {
+    name: 'Sportoase Philipssite',
+    function: 'Climbing gym operational manager',
+    timespan: 'September 2011 - present',
+    location: 'Leuven',
+    description: 'Responsability for the day-to-day workings and administration of a climbing gym.'
+  },
+  {
+    name: 'Kivif',
+    function: 'Rope course instructor and rescuer',
+    timespan: '2011 - present',
+    location: 'Sint-Joris-Weert',
+    description: ''
+  }
+]
 
 data.education = {}
 
