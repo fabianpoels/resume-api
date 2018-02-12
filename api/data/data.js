@@ -84,7 +84,44 @@ data.experience = [
   }
 ]
 
-data.education = {}
+data.education = [
+  {
+    instance: 'UC Leuven-Limburg',
+    degree: 'Bachelor in applied informatics',
+    timespan: '2007 - 2010 / 2017 - present',
+    comment: ''
+  },
+  {
+    instance: 'Sport Vlaanderen/VTS',
+    degree: 'Climbing instructor',
+    timespan: '2016',
+    comment: ''
+  },
+  {
+    instance: 'Sport Vlaanderen/VTS',
+    degree: 'Snowboard instructor',
+    timespan: '2011',
+    comment: ''
+  },
+  {
+    instance: 'Exponent',
+    degree: 'European rope course rescuer',
+    timespan: '2011',
+    comment: ''
+  },
+  {
+    instance: 'KULeuven',
+    degree: 'Bachelor in physics',
+    timespan: '2005 - 2007',
+    comment: 'No degree'
+  },
+  {
+    instance: 'Sint-Pieterscollege Leuven',
+    degree: 'High school degree',
+    timespan: '1999 - 2005',
+    comment: 'General high school degree with focus on maths and sciences'
+  }
+]
 
 data.otherDegrees = {}
 
