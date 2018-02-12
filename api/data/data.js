@@ -67,6 +67,20 @@ data.experience = [
     timespan: '2011 - present',
     location: 'Sint-Joris-Weert',
     description: ''
+  },
+  {
+    name: 'D\'Store',
+    function: 'Sales employee',
+    timespan: '2010 - 2012',
+    location: 'Bierbeek',
+    description: ''
+  },
+  {
+    name: 'Smartlounge (part of Kunstmaan)',
+    function: 'Junior Developer',
+    timespan: '2010',
+    location: 'Leuven',
+    description: 'Three month internship followed by a one month paid position in the web development department of a communication agency. I worked mostly on their own Java-based CMS, as well as on small PoC\'s for future projects.'
   }
 ]
 
