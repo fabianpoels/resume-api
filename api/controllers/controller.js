@@ -9,5 +9,8 @@ module.exports = {
   },
   experience: function (req, res, next) {
     res.status(200).json(data.experience)
+  },
+  education: function (req, res, next) {
+    res.status(200).json(data.education)
   }
 }
