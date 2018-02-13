@@ -52,6 +52,24 @@ data.skills.other = [
     skill: 4
   }
 ]
+data.skills.languages = [
+  {
+    language: 'Dutch',
+    skill: 5
+  },
+  {
+    language: 'English',
+    skill: 4
+  },
+  {
+    language: 'French',
+    skill: 4
+  },
+  {
+    language: 'German',
+    skill: 2
+  }
+]
 
 data.experience = [
   {
