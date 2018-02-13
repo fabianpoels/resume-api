@@ -70,6 +70,7 @@ data.skills.languages = [
     skill: 2
   }
 ]
+data.skills.description = 'Thorough knowledge of object-orientated languages and concepts, mainly in Java but also to a lesser extent in C#. Experience with various scripting languages (PHP, Python, Perl, JavaScript) and web-development frameworks (Play, Laravel, NodeJS, ExpressJS, Vue…). Good knowledge of the Git version control system and various database systems (SQL, NoSQL). Experience with various development environments (from plain text editors to IDE’s like Eclipse) and operating systems (Windows and Linux, mostly Ubuntu).'
 
 data.experience = [
   {
