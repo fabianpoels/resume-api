@@ -142,10 +142,4 @@ data.education = [
   }
 ]
 
-data.otherDegrees = {}
-
-data.languageSkills = {}
-
-data.misc = {}
-
 module.exports = data
