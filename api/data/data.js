@@ -50,6 +50,14 @@ data.skills.other = [
   {
     name: 'Git',
     skill: 4
+  },
+  {
+    name: 'NoSQL',
+    skill: 3
+  },
+  {
+    name: 'VueJS',
+    skill: 3
   }
 ]
 data.skills.languages = [
