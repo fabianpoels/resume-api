@@ -97,10 +97,17 @@ data.experience = [
   },
   {
     name: 'D\'Store',
+    function: 'Business analist',
+    timespan: '2012',
+    location: 'Bierbeek',
+    description: 'Analizing business processes to to prepare the implementation of a fully automated stock system.'
+  },
+  {
+    name: 'D\'Store',
     function: 'Sales employee',
     timespan: '2010 - 2012',
     location: 'Bierbeek',
-    description: ''
+    description: 'Sales of technical ski and snowboard gear.'
   },
   {
     name: 'Smartlounge (part of Kunstmaan)',
