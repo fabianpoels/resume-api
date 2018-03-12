@@ -100,7 +100,7 @@ data.experience = [
     function: 'Business analist',
     timespan: '2012',
     location: 'Bierbeek',
-    description: 'Analizing business processes to to prepare the implementation of a fully automated stock system.'
+    description: 'Analizing business processes to prepare the implementation of a fully automated stock system.'
   },
   {
     name: 'D\'Store',
