@@ -83,10 +83,10 @@ data.skills.description = 'Thorough knowledge of object-orientated languages and
 data.experience = [
   {
     name: 'Vertical Life',
-    function: 'Software developer (freelance)',
+    function: 'Software developer',
     timespan: 'May 2018 - present',
     location: 'Brixen, Italy',
-    description: ''
+    description: 'freelance software developer'
   },
   {
     name: 'Sportoase Philipssite',
@@ -104,7 +104,7 @@ data.experience = [
   },
   {
     name: 'D\'Store',
-    function: 'Business analist',
+    function: 'Business analyst',
     timespan: '2012',
     location: 'Bierbeek',
     description: 'Analizing business processes to prepare the implementation of a fully automated stock system.'
