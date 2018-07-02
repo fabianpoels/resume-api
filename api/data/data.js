@@ -60,6 +60,10 @@ data.skills.other = [
     skill: 4
   },
   {
+    name: 'SQL',
+    skill: 4
+  },
+  {
     name: 'NoSQL',
     skill: 3
   },
