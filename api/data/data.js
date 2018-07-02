@@ -28,6 +28,10 @@ data.skills.programmingLanguages = [
     skill: 4
   },
   {
+    language: 'Ruby',
+    skill: 3
+  },
+  {
     language: 'C#',
     skill: 2
   }
@@ -43,6 +47,10 @@ data.skills.frameworks = [
   },
   {
     name: 'NodeJS',
+    skill: 4
+  },
+  {
+    name: 'Rails',
     skill: 4
   }
 ]
@@ -129,7 +137,7 @@ data.education = [
   {
     instance: 'UC Leuven-Limburg',
     degree: 'Bachelor in applied informatics',
-    timespan: '2007 - 2010 / 2017 - present',
+    timespan: '2007 - 2010 / 2017 - 2018',
     comment: ''
   },
   {
