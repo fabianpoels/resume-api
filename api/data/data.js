@@ -52,6 +52,10 @@ data.skills.frameworks = [
   {
     name: 'Rails',
     skill: 4
+  },
+  {
+    name: 'VueJS',
+    skill: 4
   }
 ]
 data.skills.other = [
@@ -65,10 +69,6 @@ data.skills.other = [
   },
   {
     name: 'NoSQL',
-    skill: 3
-  },
-  {
-    name: 'VueJS',
     skill: 3
   }
 ]
@@ -88,6 +88,10 @@ data.skills.languages = [
   {
     language: 'German',
     skill: 2
+  },
+  {
+    language: 'Spanish',
+    skill: 1
   }
 ]
 data.skills.description = 'Thorough knowledge of object-orientated languages and concepts, mainly in Java but also to a lesser extent in C#. Experience with various scripting languages (PHP, Python, Perl, JavaScript) and web-development frameworks (Play, Laravel, NodeJS, ExpressJS, Vue…). Good knowledge of the Git version control system and various database systems (SQL, NoSQL). Experience with various development environments (from plain text editors to IDE’s like Eclipse) and operating systems (Windows and Linux, mostly Ubuntu).'
